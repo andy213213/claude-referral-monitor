@@ -1,6 +1,6 @@
 import { get, put } from '@vercel/blob';
 
-export const defaultControls = { paused: false, intervalMinutes: 30, used: [], lastUpdateId: -1 };
+export const defaultControls = { paused: false, intervalMinutes: 15, used: [], lastUpdateId: -1 };
 
 async function readRecord(path) {
   const result = await get(path, { access: 'private', useCache: false });

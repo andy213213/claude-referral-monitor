@@ -44,18 +44,18 @@
   "sourceBackoff": {
     "Linux.do": "2026-11-18T14:33:40.690Z",
     "Reddit posts": "2026-11-18T09:03:40.690Z",
-    "Reddit comments": "2026-11-18T13:14:02.093Z",
+    "Reddit comments": "2026-11-18T13:49:45.312Z",
     "Reddit public keyword search": "2026-11-18T13:34:06.094Z"
   },
   "searchCredits": {
     "day": "2026-11-18",
-    "spent": 39,
+    "spent": 42,
     "dailyLimit": 387,
-    "freeRemaining": 4993,
+    "freeRemaining": 4990,
     "resetsAt": "2026-12-01T00:00:00.000Z"
   },
   "xSearch": {
-    "completedAt": "2026-11-18T13:04:06.094Z"
+    "completedAt": "2026-11-18T13:19:45.312Z"
   },
-  "lastScanAt": "2026-11-18T13:04:06.094Z"
+  "lastScanAt": "2026-11-18T13:19:45.312Z"
 }

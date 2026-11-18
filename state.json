@@ -27,11 +27,11 @@
     "available": [
       "Guest pass directory",
       "NodeLoc",
-      "Hacker News",
-      "X public keyword search"
+      "Hacker News"
     ],
     "unavailable": [
       "Linux.do",
+      "X public keyword search",
       "Reddit public keyword search",
       "Reddit posts",
       "Reddit comments"
@@ -40,7 +40,7 @@
   "sourceBackoff": {
     "Linux.do": "2026-11-18T14:33:40.690Z",
     "Reddit posts": "2026-11-18T09:03:40.690Z",
-    "Reddit comments": "2026-11-18T10:44:47.137Z",
+    "Reddit comments": "2026-11-18T13:14:02.093Z",
     "Reddit public keyword search": "2026-11-18T10:44:47.137Z"
   },
   "searchCredits": {
@@ -53,5 +53,5 @@
   "xSearch": {
     "completedAt": "2026-11-18T10:34:14.373Z"
   },
-  "lastScanAt": "2026-11-18T10:34:14.373Z"
+  "lastScanAt": "2026-11-18T12:44:02.093Z"
 }

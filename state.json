@@ -20,18 +20,22 @@
     "29d7d8bb4fdfdcf65a980a8fc0878a9837b5c40ea5cc73e2c2cb0150957b06ce": "2026-11-18T08:53:13.582Z",
     "65ea4ca9da44486c968014497d076ea101ccddb41ca129424b18dd5a75ce139f": "2026-11-18T08:53:13.738Z",
     "da338235b0c0fd9c425232dd62fd46445490a73035a0f74c09a6eba3ecbf7459": "2026-11-18T08:53:13.885Z",
-    "14109358df265d0ced031584cc0de6e6f3d8bb2477296c68a078c6898453c100": "2026-11-18T08:53:14.032Z"
+    "14109358df265d0ced031584cc0de6e6f3d8bb2477296c68a078c6898453c100": "2026-11-18T08:53:14.032Z",
+    "24a078b40ecdd87394b9fd29effea827c6e89aa5fa9d88f903bbb990d14b5af0": "2026-11-18T13:04:12.538Z",
+    "0e58286d53805b051b657aeeb508216be044b71283dfc17e35d8d565903803bd": "2026-11-18T13:04:12.538Z",
+    "9f7e565c537c4083821be7e13cb3b7cfc9ded094c416b33bb837ed6350bb6c3f": "2026-11-18T13:04:12.538Z",
+    "b599e40db02ef9485005e50092c81bc6a780bbb2f61664472d30baf78dc54be0": "2026-11-18T13:04:12.538Z"
   },
   "lastCheckDay": "2026-11-18",
   "sources": {
     "available": [
       "Guest pass directory",
       "NodeLoc",
-      "Hacker News"
+      "Hacker News",
+      "X public keyword search"
     ],
     "unavailable": [
       "Linux.do",
-      "X public keyword search",
       "Reddit public keyword search",
       "Reddit posts",
       "Reddit comments"
@@ -41,17 +45,17 @@
     "Linux.do": "2026-11-18T14:33:40.690Z",
     "Reddit posts": "2026-11-18T09:03:40.690Z",
     "Reddit comments": "2026-11-18T13:14:02.093Z",
-    "Reddit public keyword search": "2026-11-18T10:44:47.137Z"
+    "Reddit public keyword search": "2026-11-18T13:34:06.094Z"
   },
   "searchCredits": {
     "day": "2026-11-18",
-    "spent": 32,
-    "dailyLimit": 384,
-    "freeRemaining": 4968,
+    "spent": 39,
+    "dailyLimit": 387,
+    "freeRemaining": 4993,
     "resetsAt": "2026-12-01T00:00:00.000Z"
   },
   "xSearch": {
-    "completedAt": "2026-11-18T10:34:14.373Z"
+    "completedAt": "2026-11-18T13:04:06.094Z"
   },
-  "lastScanAt": "2026-01-01T00:00:00.000Z"
+  "lastScanAt": "2026-11-18T13:04:06.094Z"
 }

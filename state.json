@@ -35,7 +35,8 @@
     "ab30d4be928a05e8f7bb3892086d48840acf265b7b70c99610cf8afeb6c57f05": "2026-11-19T02:43:40.752Z",
     "fdb177ffb70b747050f2c8d4f947caf07e81de158e0a6f6ee56074d77b5aaeb2": "2026-11-19T02:43:40.752Z",
     "13868ee6135a1b6845264454c67cc7d582cb9bca6b8a4bc278dd73963abcbb0c": "2026-11-19T10:46:30.357Z",
-    "755af17ef9e04d701ea02b6c8097c5ede7f39a9f333f34369c8149e6ccbbf5a0": "2026-11-19T10:46:30.357Z"
+    "755af17ef9e04d701ea02b6c8097c5ede7f39a9f333f34369c8149e6ccbbf5a0": "2026-11-19T10:46:30.357Z",
+    "769d18da65e4dd299f292c39718489905b2a1261c63bcaf39e22d09a88fc4269": "2026-11-19T19:11:53.131Z"
   },
   "lastCheckDay": "2026-11-19",
   "sources": {
@@ -53,20 +54,20 @@
     ]
   },
   "sourceBackoff": {
-    "Linux.do": "2026-11-19T16:46:21.689Z",
+    "Linux.do": "2026-11-20T01:11:45.322Z",
     "Reddit posts": "2026-11-19T11:16:21.689Z",
-    "Reddit comments": "2026-11-19T03:13:34.748Z",
-    "Reddit public keyword search": "2026-11-19T11:16:21.689Z"
+    "Reddit comments": "2026-11-19T19:41:45.322Z",
+    "Reddit public keyword search": "2026-11-19T19:41:45.322Z"
   },
   "searchCredits": {
     "day": "2026-11-19",
-    "spent": 13,
-    "freeRemaining": 4967,
+    "spent": 18,
+    "freeRemaining": 4962,
     "resetsAt": "2026-12-01T00:00:00.000Z",
     "dailyLimit": 415
   },
   "xSearch": {
-    "completedAt": "2026-11-19T10:46:21.689Z"
+    "completedAt": "2026-11-19T19:11:45.322Z"
   },
-  "lastScanAt": "2026-11-19T10:46:21.689Z"
+  "lastScanAt": "2026-11-19T19:11:45.322Z"
 }

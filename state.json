@@ -85,7 +85,15 @@
     "01a0d757da839b117e6a46c7a6a19223ff2f7999ea186a1337495cd606ff06db": "2026-11-23T21:23:00.207Z",
     "2b1192f9a0aaa7d9ee3c36f45e33bd5b012683229890388069c86addaa1cf7e0": "2026-11-24T05:26:25.823Z",
     "95bef57f0293f33cf6b0b0dd619e1bc4b02a8dce4d284b74d83f974a3b6d4b47": "2026-11-24T05:26:25.823Z",
-    "6d8c849b50d465dd35b54ddfbfa33427976fcc78c1456249cf3145d77a7c7e86": "2026-11-24T05:26:25.823Z"
+    "6d8c849b50d465dd35b54ddfbfa33427976fcc78c1456249cf3145d77a7c7e86": "2026-11-24T05:26:25.823Z",
+    "e16c67778f81c5c5b4e01c2f753b10f5420b0aa3c7bd0685993669001fc37493": "2026-11-24T16:08:32.697Z",
+    "d447e1803b24a1d703266bfe979d53d68e4b3dc807eb2e211b3e5a0ff43d8ac4": "2026-11-24T16:08:32.697Z",
+    "c4b8dd531b17a8807398391f84c7e45d70c72e12d155979ad7673d6cd059ed45": "2026-11-24T16:08:32.697Z",
+    "49e4328ccfaac016518e3fb850e228c589bf45e45098dec40c21add05f87a8a6": "2026-11-24T16:08:32.697Z",
+    "58db9f961c0871c6dd0e2fe06fadee7011713109315bc8582be822f2c169e458": "2026-11-24T16:08:32.697Z",
+    "8a9809603bb124c1d047256bb97210502b2169e7e4fb1b77a6bf0db849d3dab3": "2026-11-24T16:08:33.060Z",
+    "39481229fff23edabce2ad0328de83291c2dbc2822d1b2393861a1a476c5189d": "2026-11-24T16:08:33.060Z",
+    "7e0effb2bf62e85190fa053211d7b839ea0dda04e48c043032110ff12c546a85": "2026-11-24T16:08:33.060Z"
   },
   "lastCheckDay": "2026-11-24",
   "sources": {
@@ -103,20 +111,20 @@
     ]
   },
   "sourceBackoff": {
-    "Linux.do": "2026-11-24T11:26:17.681Z",
-    "Reddit posts": "2026-11-23T21:52:57.517Z",
+    "Linux.do": "2026-11-24T22:08:25.830Z",
+    "Reddit posts": "2026-11-24T16:38:25.830Z",
     "Reddit comments": "2026-11-24T05:56:17.681Z",
-    "Reddit public keyword search": "2026-11-24T05:56:17.681Z"
+    "Reddit public keyword search": "2026-11-24T16:38:25.830Z"
   },
   "searchCredits": {
     "day": "2026-11-24",
-    "spent": 9,
-    "freeRemaining": 4859,
+    "spent": 20,
+    "freeRemaining": 4848,
     "resetsAt": "2026-12-01T00:00:00.000Z",
     "dailyLimit": 695
   },
   "xSearch": {
-    "completedAt": "2026-11-24T05:26:17.681Z"
+    "completedAt": "2026-11-24T16:08:25.830Z"
   },
-  "lastScanAt": "2026-11-24T05:26:17.681Z"
+  "lastScanAt": "2026-11-24T16:08:25.830Z"
 }

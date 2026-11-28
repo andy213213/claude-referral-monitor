@@ -136,9 +136,14 @@
     "e61fd0557367102520bfd0c8ff81de54b653cdfc2fd778e9f52032e7f52fc8e8": "2026-11-27T20:21:21.453Z",
     "3c73315466de68c2c25bf3a56113d83c8c1b00c79bd4a71630ed6ac8d61d8c65": "2026-11-27T20:21:21.453Z",
     "0d5c631b5403904ef972d3914deca457d081528a74510b730d3bba9af4657c88": "2026-11-27T20:21:21.453Z",
-    "7d40739d01ea39b655dbfb9db40b49a96710fa25701329852dfb09c83544185e": "2026-11-27T20:21:21.453Z"
+    "7d40739d01ea39b655dbfb9db40b49a96710fa25701329852dfb09c83544185e": "2026-11-27T20:21:21.453Z",
+    "f952b74b6083554822aeb6f082b1e9b646f56d1385e2dbf322d497f2271c62e5": "2026-11-28T02:52:55.197Z",
+    "c6f9d42814b0834ce8a8ddf7c197563c16debf3b4219e06e162666e3917f49d9": "2026-11-28T02:52:55.197Z",
+    "f85a0d340ec250291c2abaa849d7a0d67dd50c73039c97b5b16c12eb74e175af": "2026-11-28T02:52:55.197Z",
+    "00728b01a5af8ca21cbc83a609bc7f5158fbe607849fe71b741c727f9f5637f9": "2026-11-28T02:52:55.197Z",
+    "772d9d7c64539ec78e2e31a5df04b14abc85dd7e57c820c6e69e9becb37d69ea": "2026-11-28T02:52:55.197Z"
   },
-  "lastCheckDay": "2026-11-27",
+  "lastCheckDay": "2026-11-28",
   "sources": {
     "available": [
       "Guest pass directory",
@@ -154,20 +159,20 @@
     ]
   },
   "sourceBackoff": {
-    "Linux.do": "2026-11-28T02:21:15.723Z",
-    "Reddit posts": "2026-11-27T20:51:15.723Z",
+    "Linux.do": "2026-11-28T08:52:48.320Z",
+    "Reddit posts": "2026-11-28T03:22:48.320Z",
     "Reddit comments": "2026-11-27T12:16:40.475Z",
-    "Reddit public keyword search": "2026-11-27T20:51:15.723Z"
+    "Reddit public keyword search": "2026-11-28T03:22:48.320Z"
   },
   "searchCredits": {
-    "day": "2026-11-27",
-    "spent": 19,
-    "freeRemaining": 4776,
+    "day": "2026-11-28",
+    "spent": 6,
+    "freeRemaining": 4770,
     "resetsAt": "2026-12-01T00:00:00.000Z",
-    "dailyLimit": 1198
+    "dailyLimit": 1592
   },
   "xSearch": {
-    "completedAt": "2026-11-27T20:21:15.723Z"
+    "completedAt": "2026-11-28T02:52:48.320Z"
   },
-  "lastScanAt": "2026-11-27T20:21:15.723Z"
+  "lastScanAt": "2026-11-28T02:52:48.320Z"
 }
